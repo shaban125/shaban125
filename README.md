@@ -28,5 +28,3 @@ I'm a passionate learner and developer, working on **AI**, **Python**, and **Dat
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ---
-
-Would you like to add any specific sections or details to this template?
