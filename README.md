@@ -25,6 +25,6 @@ I'm a passionate learner and developer, working on **AI**, **Python**, and **Dat
 
 ### 📊 Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shaban125&show_icons=true&theme=radical)
 
 ---
